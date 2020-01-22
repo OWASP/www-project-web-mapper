@@ -8,4 +8,4 @@ tags: example-tag
 
 ## Example
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+The complete product is deployed into a demo instance at [www.wmap.io](https://www.wmap.io/). You can logon to it by using demo user 'admin' and password 'admin123'.
