@@ -10,5 +10,4 @@
 * [Twitter](https://twitter.com/yli8)
 
 ### Code Repository
-* [Web Mapper](https://github.com/yangsec888/wmap)
-* [Web Mapper Portal](https://github.com/yangsec888/www_wmap)
+* [Web Mapper](https://github.com/yangsec888/www_wmap)
