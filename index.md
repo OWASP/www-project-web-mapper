@@ -6,9 +6,6 @@ tags: web-mapper
 level: 2
 type: documentation
 
-auto-migrated: 1
-auto-migrated: 1
-
 ---
 
 - [OWASP Web Mapper Project](#owasp-web-mapper-project)
