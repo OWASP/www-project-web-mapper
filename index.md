@@ -2,8 +2,8 @@
 
 layout: col-sidebar
 title: OWASP Web Mapper
-tags: example-tag
-level: 0
+tags: web-mapper
+level: 2
 type: documentation
 
 auto-migrated: 1
@@ -32,11 +32,10 @@ Built as an open source project, the source code is both free and scalable. You'
 The complete product is deployed into a demo instance at [www.wmap.io](https://www.wmap.io/). You can logon to it by using demo user 'admin' and password 'admin123'.
 
 ## News and Events
+- [Jan 2020] OWASP Web Maper project support docker build for fast deployment.
 - [May 1 2019] OWASP Web Mapper demo web application major facelift complete.
 - [January 1 2018] OWASP Web Mapper demo web application released.
 - [August 1 2015] OWASP Web Mapper Project created.
 
 ## Licensing
-The OWASP Web Mapper Project is free to use. In fact it is encouraged!
-
-The OWASP Security Principles are licensed under the Apache 2.0 license, so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
+The OWASP Security Principles are licensed under the Apache 2.0 license. You can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
