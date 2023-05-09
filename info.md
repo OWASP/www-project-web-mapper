@@ -3,7 +3,7 @@
 ![Builders](assets/images/common/owasp_builders.svg)
 
 ### Product Demo Site
-* [Web Mapper Portal Demo](https://wmap.io/)
+* [Web Mapper Portal Demo](https://www.wmap.cloud/)
 
 ### Social Links
 * [LinkedIn](https://www.linkedin.com/in/yangli8/)
