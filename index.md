@@ -26,7 +26,7 @@ A pure Ruby library for the web application asset discovery and tracking. The to
 Built as an open source project, the source code is both free and scalable. You're welcome to keep building on top of the current code base, or include it as part of your larger project distribution.
 
 ## Demo
-The complete product is deployed into a demo instance at [www.wmap.io](https://www.wmap.io/). You can logon to it by using demo user 'admin' and password 'admin123'.
+The complete product is deployed into a demo instance at [www.wmap.cloud](https://www.wmap.cloud/). You can logon to it by using demo user 'admin' and password 'admin123'.
 
 ## News and Events
 - [Jan 2020] OWASP Web Maper project support docker build for fast deployment.
