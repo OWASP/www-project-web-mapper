@@ -1,0 +1,23 @@
+audience:
+  - breaker
+  - builder
+leaders:
+  - name: Sam Yang Li
+    email: yang.li@owasp.org
+    github: yangsec888
+level: 2
+name: OWASP Web Mapper
+pitch: Description for OWASP Web Mapper
+repositories:
+  - name: www-project-web-mapper
+    url: https://github.com/OWASP/www-project-web-mapper
+    description: OWASP Foundation Web Repository
+  - name: www_wmap
+    url: https://github.com/yangsec888/www_wmap
+    description: 'OWASP Web Mapper Application - application assets auto-discovery and tracking. '
+tags:
+  - web-mapper
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-web-mapper
